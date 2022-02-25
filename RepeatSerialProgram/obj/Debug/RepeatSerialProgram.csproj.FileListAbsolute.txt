@@ -1,0 +1,10 @@
+C:\Users\minjae\source\repos\RepeatSerialProgram\RepeatSerialProgram\bin\Debug\RepeatSerialProgram.exe.config
+C:\Users\minjae\source\repos\RepeatSerialProgram\RepeatSerialProgram\bin\Debug\RepeatSerialProgram.exe
+C:\Users\minjae\source\repos\RepeatSerialProgram\RepeatSerialProgram\bin\Debug\RepeatSerialProgram.pdb
+C:\Users\minjae\source\repos\RepeatSerialProgram\RepeatSerialProgram\obj\Debug\RepeatSerialProgram.csprojAssemblyReference.cache
+C:\Users\minjae\source\repos\RepeatSerialProgram\RepeatSerialProgram\obj\Debug\RepeatSerialProgram.MainForm.resources
+C:\Users\minjae\source\repos\RepeatSerialProgram\RepeatSerialProgram\obj\Debug\RepeatSerialProgram.Properties.Resources.resources
+C:\Users\minjae\source\repos\RepeatSerialProgram\RepeatSerialProgram\obj\Debug\RepeatSerialProgram.csproj.GenerateResource.cache
+C:\Users\minjae\source\repos\RepeatSerialProgram\RepeatSerialProgram\obj\Debug\RepeatSerialProgram.csproj.CoreCompileInputs.cache
+C:\Users\minjae\source\repos\RepeatSerialProgram\RepeatSerialProgram\obj\Debug\RepeatSerialProgram.exe
+C:\Users\minjae\source\repos\RepeatSerialProgram\RepeatSerialProgram\obj\Debug\RepeatSerialProgram.pdb
